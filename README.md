@@ -43,7 +43,6 @@ Simple reinforcement-learning Snake game demo (Python).
 - `ai_snakegame_v5.py` — latest AI/training script
 - `snakegame.py` — game environment / playable version
 - `checkpoints/` — saved models (ignored by git)
-- `documents/` — notes and comparisons
 
 ## Notes
 
