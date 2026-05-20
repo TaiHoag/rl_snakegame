@@ -1,0 +1,31 @@
+# Simple .gitignore for this Python project
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Model checkpoints and saved weights
+checkpoints/
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+#self-documents
+documents/
